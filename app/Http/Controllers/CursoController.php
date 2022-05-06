@@ -8,7 +8,7 @@ class CursoController extends Controller
 {
     public function index()
     {
-        return "Hola bienvneido a la pagina principal";
+        return "Hola bienvneido a la pagina principal de cursos";
     }
 
     public function create()
